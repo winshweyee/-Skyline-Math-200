@@ -1,0 +1,19 @@
+Date,Day of the Week,Amount,Description,Category ,Method of Payment,Need/Want/Saving
+01/25/24,Thursday,9.55,Lunch,Food,Debit,Need
+01/26/24,Friday,15.24,Coffee,Food,Debit,Want
+01/27/24,Saturday,8.91,Uber,Travel,Debit,Need
+01/28/24,Sunday,18.00,Coffee,Food,Debit,Want
+01/28/24,Sunday,13.34,Lunch,Food,Debit,Need
+01/28/24,Sunday,41.44,Gas,Travel,Debit,Need
+01/29/24,Monday,55,Grocery,Food,Debit,Need
+01/29/24,Monday,6.62,Grocery,Food,Debit,Need
+01/30/24,Tuesday,13.72,Lunch,Food,Debit,Need
+01/30/24,Tuesday,3,Breakfast,Food,Debit,Need
+01/31/24,Wednesday,4.06,Lunch,Food,Debit,Need
+02/01/24,Thursday,60.41,Grocery,Food,Credit,Need
+02/02/24,Friday,16.80,Shopping,Entertainment and Recreation,Credit,Want
+02/02/24,Friday,6.99,Coffee,Food,Debit,Want
+02/03/24,Saturday,30,Haircut,Entertainment and Recreation,Credit,Want
+02/05/04,Monday,500,Allowance,Financial goals and Savings,Debit,Savings
+02/06/04,Tuesday,15,Dinner,Food,Debit,Need
+02/07/04,Wednesday,5,Snack,Food,Debit,Want
